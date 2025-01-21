@@ -6,6 +6,10 @@ enableEmoji = true
 ignoreErrors = ["additional-script-loading-error"]
 defaultContentLanguage = "en-gb"
 
+[module]
+  [[module.imports]]
+    path = "github.com/hugo-sid/hugo-blog-awesome"
+
 [markup]
   [markup.highlight]
     noClasses = false
