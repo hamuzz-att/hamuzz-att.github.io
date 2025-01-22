@@ -36,9 +36,9 @@ defaultContentLanguage = "en-gb"
     url = '/'
     weight = 10
   [[Languages.en-gb.menu.main]]
-    pageRef="blog"
-    name = 'Blog'
-    url = '/blog/'
+    pageRef="posts"
+    name = 'Posts'
+    url = '/posts/'
     weight = 20
   [[Languages.en-gb.menu.main]]
     pageRef="experience"

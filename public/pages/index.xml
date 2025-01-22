@@ -15,8 +15,70 @@
       
       <description>&lt;p&gt;I am a person who is passionate learning about Cloud Computing or DevOps, with more than 2 years of experience in Cloud Computing and Systems. I have a strong foundation in Linux, Virtualization, and Containerization technologies.&lt;/p&gt;
 &lt;p&gt;I am a continuous learner with a passion for exploring and implementing the latest advancements in Cloud Computing and DevOps methodologies.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The best preparation for tomorrow is doing your best today&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;I am eager to contribute my skills and expertise to a challenging and dynamic environment, where I can collaborate with teams and contribute to innovative projects.
 Let&amp;rsquo;s build something amazing together! 😊&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Achievments</title>
+      <link>http://localhost:1313/pages/achievments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pages/achievments/</guid>
+      
+      <description>&lt;p&gt;Welcome to the &lt;strong&gt;Achievements&lt;/strong&gt; section! 🎉 Here, you&amp;rsquo;ll find a collection of my Certificates and Accolades.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;My Achievements&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;1st place in National Cloud Computing Competition&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;1st place in Cirebon City LKS IT Network System Administration Competition&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Finalist of West Java Province LKS Cloud Computing Competition&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;My Certificates&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;MikroTik Certified Network Associate (MTCNA)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Linux System Administration (ADINUSA)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Docker Fundamental ADINUSA)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Mastering Docker (IDN.ID)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Automation with Ansible (ADINUSA)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Kubernetes Administration (ADINUSA)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Ceph Administration (ADINUSA)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;OpenStack Administration (ADINUSA)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;AWS Cloud Practitioner Essentials&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Networking Essentials Cisco Networking Academy&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Computer Networking Fundamental&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;DevOps Fundamental&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Web Programming Fundamental&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>My Journey</title>
+      <link>http://localhost:1313/pages/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pages/experience/</guid>
+      
+      <description>&lt;h2 id=&#34;cloud-support-engineer-l2&#34;&gt;Cloud Support Engineer (L2)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;PT. Era Awan Digital (Eranyacloud)&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Jakarta, ID&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;January 2025 – Present&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Technologies:&lt;/strong&gt; Linux, Windows Server, Backup and Restore, Containerize, Kubernetes, Openstack, AWS Cloud, Networking, Monitoring Server and WAF&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;cloud-support-engineer-l1&#34;&gt;Cloud Support Engineer (L1)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;PT. Era Awan Digital (Eranyacloud)&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Jakarta, ID&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;June 2023 – December 2024&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Technologies:&lt;/strong&gt; Linux, Windows Server, Backup and Restore, Containerize, Kubernetes, Openstack, AWS Cloud, Networking, Monitoring Server and WAF&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;bootcamp-cloud-engineer&#34;&gt;Bootcamp Cloud Engineer&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Akademi Digital Nusantara (ADINUSA)&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;January 2023 – March 2023&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Technologies:&lt;/strong&gt; Linux, Docker, Ansible, Kubernetes, Ceph and Openstack&lt;/p&gt;</description>
       
     </item>
     

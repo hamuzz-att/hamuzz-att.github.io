@@ -1,0 +1,23 @@
+.navbar {
+    width: 100%; /* Ensures the navbar spans the entire width */
+    background-color: #1a0000; /* Adjust the background color as needed */
+    color: white;
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color: inherit;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    background-color: #1a0000;
+}
+
+:root {
+    --navbar-background-color: #1a0000;
+    --navbar-text-color: white;
+}

@@ -4,13 +4,17 @@
   <url>
     <loc>http://localhost:1313/pages/about/</loc>
   </url><url>
+    <loc>http://localhost:1313/pages/achievments/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/</loc>
   </url><url>
-    <loc>http://localhost:1313/experience/</loc>
+    <loc>http://localhost:1313/pages/experience/</loc>
   </url><url>
     <loc>http://localhost:1313/pages/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>
