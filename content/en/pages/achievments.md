@@ -23,3 +23,8 @@ Welcome to the **Achievements** section! 🎉 Here, you'll find a collection of 
 * *Computer Networking Fundamental*
 * *DevOps Fundamental*
 * *Web Programming Fundamental*
+* *cPanel Professional Certification (CPP)*
+* *cPanel & WHM System Administrator I (CWSA-1)*
+* *cPanel & WHM System Administrator II (CWSA-2)*
+* *cPanel Certified Partner Accreditation (CPCP)*
+* *BNSP Level II Kompetensi Keahlian Teknik Komputer dan Jaringan*
