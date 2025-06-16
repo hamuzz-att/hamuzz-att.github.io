@@ -6,15 +6,30 @@
     <description>Recent content in Posts on Habib Mustofa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 20 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Linux Server Configuration</title>
-      <link>http://localhost:1313/posts/linux-server/</link>
-      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      <title>Self-Host n8n Using Docker</title>
+      <link>http://localhost:1313/posts/self-host-n8n-using-docker/</link>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/linux-server/</guid>
+      <guid>http://localhost:1313/posts/self-host-n8n-using-docker/</guid>
       
-      <description></description>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;n8n&lt;/strong&gt; is a powerful, open-source workflow automation tool. In this guide, you’ll learn how to self-host n8n using Docker and securely expose it to the internet using &lt;strong&gt;Cloudflare Tunnel&lt;/strong&gt; — without opening any ports or needing a reverse proxy.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-prerequisites&#34;&gt;🧰 Prerequisites&lt;/h2&gt;
+&lt;p&gt;Make sure you have the following ready:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A VPS/server (Ubuntu/Debian preferred)&lt;/li&gt;
+&lt;li&gt;A domain connected to Cloudflare&lt;/li&gt;
+&lt;li&gt;Docker &amp;amp; Docker Compose installed&lt;/li&gt;
+&lt;li&gt;A free Cloudflare account&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;cloudflared&lt;/code&gt; CLI installed&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;1--setup-project-directory&#34;&gt;1. 📁 Setup Project Directory&lt;/h2&gt;
+&lt;p&gt;Create a directory for your n8n:&lt;/p&gt;</description>
       
     </item>
     
